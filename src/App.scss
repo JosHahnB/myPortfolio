@@ -47,6 +47,10 @@ header {
 	padding-bottom: 0;
 }
 
+header a {
+	color:rgba(0, 0, 0, .7) !important;
+}
+
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;

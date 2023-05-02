@@ -55,37 +55,31 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Calendar App",
+        "startDate": "2023",
+        "description": "The first group project I worked on with some awesome classmates. This is a calendar based app with multiple organizational features to aid in planning your daily life. This calendar is functional, versatile, interactive and practical. It solves daily scheduling by allowing you to input appointments or events. The calendar site also has a to-do list feature and helps you keep track of tasks. The highlight featue is definitely being able to change the background of the calendar to whatever image you find on the internet.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/p2.jpg",
+          "images/portfolio/adventure/p3.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
+         
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Advanced Fullstack JavaScript Developer",
+        "years": "1.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
           "REST API",
