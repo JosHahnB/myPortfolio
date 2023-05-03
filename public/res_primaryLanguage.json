@@ -75,7 +75,7 @@
     ],
     "experience": [
       {
-        "company": "CodeFellows",
+        "company": "CodeFellows Student",
         "title": "Advanced Fullstack JavaScript Developer",
         "years": "1.2023 - present",
         "mainTech": [
@@ -87,25 +87,20 @@
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Redux",
+          "Swagger",
+          "Socket.IO"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Marine Engineers Beneficial Association",
+        "title": "Office Manager",
+        "years": "12.2020 - present",
         "mainTech": [
-          "Angular 7/8"
+          "MOS"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          
         ]
       }
     ]
