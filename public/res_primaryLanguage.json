@@ -11,63 +11,84 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Nomad",
+        "startDate": "December 2023",
+        "description": "Nomad, an innovative web-based app, envisions simplifying travel planning with features that enable users to map out routes, explore local camping and Airbnb options, and conveniently save their itinerary by signing in. Beyond its practical functionality, Nomad fosters a vibrant community with an interactive travel blogging section, encouraging users to share their adventures and insights. With its comprehensive approach, Nomad emerges as an all-in-one road trip companion, empowering individuals to effortlessly organize and enhance their vacation experiences. I was responsible for getting the blog page and google map page functional, designed, and integrated",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
+          "images/portfolio/nomad/explore.png",
+          "images/portfolio/nomad/map.png",
+          "images/portfolio/nomad/trails.png",
+          "images/portfolio/nomad/blog.png"
+          
+                ],
+        "url": "https://github.com/tech-enigmas/my-app",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React-Native"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-javascript-plain",
             "name": "TypeScript"
+          },  
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Travellers Quill",
+        "startDate": "September 2023",
+        "description": "A backend blog platform using Express that implements Inquirer library for NodeJS wherein blog posts will be created using full CRUD functionality and is stored in MongoDB. Users may search by author or title and like/comment on blogs.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/travelersQuill/tq1.png",
+          "images/portfolio/travelersQuill/tq2.png",
+          "images/portfolio/travelersQuill/tq3.png",
+          "images/portfolio/travelersQuill/tq4.png",
+          "images/portfolio/travelersQuill/tq5.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/tech-enigmas/travelers-quill",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
         "title": "Calendar App",
-        "startDate": "2023",
-        "description": "The first group project I worked on with some awesome classmates. This is a calendar based app with multiple organizational features to aid in planning your daily life. This calendar is functional, versatile, interactive and practical. It solves daily scheduling by allowing you to input appointments or events. The calendar site also has a to-do list feature and helps you keep track of tasks. The highlight featue is definitely being able to change the background of the calendar to whatever image you find on the internet.",
+        "startDate": "March 2023",
+        "description": "Collaborating with fantastic classmates, we embarked on our inaugural group project—an innovative calendar app designed to streamline daily life planning. Packed with versatile organizational features, our calendar ensures functionality and interactivity. Seamlessly input appointments or events, utilize the integrated to-do list, and effortlessly keep track of tasks for an enhanced and practical scheduling experience.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg",
-          "images/portfolio/adventure/p3.jpg"
+          "images/portfolio/calendar/p1.jpg"
+         
         ],
         "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
          
         ]
