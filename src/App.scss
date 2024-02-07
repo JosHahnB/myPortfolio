@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	color: white;
+	font-size: 13px;
 }
 
 .title-styles {
@@ -27,9 +29,11 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: rgb(240, 239, 239);
 }
 
 header {
+	background-image: url("../public/images/background3.jpg");
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +42,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #dadada;
+	// background-color: #dadada;	
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -99,7 +103,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #e4e4e4;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
