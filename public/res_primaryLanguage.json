@@ -96,9 +96,21 @@
     ],
     "experience": [
       {
+        "company": "Jiu Jitsu Website - https://www.bataillejj.com/",
+        "title": "Website Updates",
+        "years": "9.2023 - current",
+        "mainTech": [
+          "Astro"
+        ],
+        "technologies": [
+          "Astro",
+          "Tailwind CSS"
+        ]
+      },
+      {
         "company": "CodeFellows Student",
         "title": "Advanced Fullstack JavaScript Developer",
-        "years": "1.2023 - present",
+        "years": "1.2023 - 12.2023",
         "mainTech": [
           "JavaScript"
         ],
@@ -116,9 +128,31 @@
       {
         "company": "Marine Engineers Beneficial Association",
         "title": "Office Manager",
-        "years": "12.2020 - present",
+        "years": "12.2020 - current",
         "mainTech": [
-          "MOS"
+          
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "Sunbelt Rentals",
+        "title": "Maintenance Manager",
+        "years": "5.2017 - 12.2020",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          
+        ]
+      },
+      {
+        "company": "United States Air Force",
+        "title": "Aeorspace Technician",
+        "years": "5.2010 - 5.2017",
+        "mainTech": [
+          
         ],
         "technologies": [
           

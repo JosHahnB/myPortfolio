@@ -59,7 +59,7 @@ class Header extends Component {
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
-              offColor="#baaa80"
+              offColor="#CFCBC1"
               onColor="#353535"
               className="react-switch mx-auto"
               width={90}
@@ -90,7 +90,7 @@ class Header extends Component {
                     fontSize: 25,
                     textAlign: "end",
                     marginLeft: "10px",
-                    color: "#353239",
+                    color: "# ",
                   }}
                 ></span>
               }
@@ -106,7 +106,7 @@ class Header extends Component {
               <h1 className="mb-0">
                 {name}
               </h1>
-              <div className="title-container">
+              <div className="title-container" >
                 <HeaderTitleTypeAnimation />
               </div>
               
