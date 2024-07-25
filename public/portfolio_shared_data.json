@@ -45,6 +45,11 @@
           "level": "70"
         },
         {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
@@ -69,11 +74,7 @@
           "class": "devicon-heroku-plain",
           "level": "60"
         },
-        {
-          "name": "React",
-          "class": "devicon-react-plain",
-          "level": "60"
-        },
+        
         {
           "name": "Webpack",
           "class": "devicon-webpack-plain",

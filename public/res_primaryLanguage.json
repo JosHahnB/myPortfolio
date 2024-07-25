@@ -29,7 +29,7 @@
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "TypeScript"
+            "name": "JavaScript"
           },  
           {
             "class": "devicon-nodejs-plain",
@@ -96,15 +96,31 @@
     ],
     "experience": [
       {
+        "company": "Wrestling IQ - https://www.wrestlingiq.com/",
+        "title": "Front End Developer",
+        "years": "2.2024 - current",
+        "mainTech": [
+          "JavaScript", "Astro"
+        ],
+        "technologies": [
+          "Vue",
+          "Tailwind CSS", 
+          "Turborepo",
+          "GitHub",
+          "Netlify"
+        ]
+      },
+      {
         "company": "Jiu Jitsu Website - https://www.bataillejj.com/",
         "title": "Website Updates",
         "years": "9.2023 - current",
         "mainTech": [
-          "Astro"
+          "Javascript", "Astro"
         ],
         "technologies": [
-          "Astro",
-          "Tailwind CSS"
+          "Tailwind CSS",
+           "GitHub",
+          "Netlify"
         ]
       },
       {
@@ -130,7 +146,7 @@
         "title": "Office Manager",
         "years": "12.2020 - current",
         "mainTech": [
-          
+          "Microsoft Office Suite"
         ],
         "technologies": [
           
