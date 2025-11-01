@@ -26,14 +26,20 @@ class Skills extends Component {
 
     return (
       <section id="skills">
-        <div className="col-md-12">
-          <div className="col-md-12">
-            <h1 className="section-title">
-              <span className="text-white">{sectionName}</span>
-            </h1>
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-12">
+              <h1 className="section-title">
+                <span className="text-white">{sectionName}</span>
+              </h1>
+            </div>
           </div>
-          <div className="col-md-12 text-center">
-            <ul className="list-inline mx-auto skill-icon">{skills}</ul>
+          <div className="row">
+            <div className="col-12">
+              <div className="container">
+                <ul className="list-inline mx-auto skill-icon">{skills}</ul>
+              </div>
+            </div>
           </div>
         </div>
       </section>

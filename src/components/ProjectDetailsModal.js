@@ -38,10 +38,11 @@ class ProjectDetailsModal extends Component {
     return (
       <Modal
         {...this.props}
-        size="lg"
+        size="xl"
         aria-labelledby="contained-modal-title-vcenter"
         centered
         className="modal-inside"
+        style={{ maxWidth: '95vw' }}
       >
         <span onClick={this.props.onHide} className="modal-close">
           <i className="fas fa-times fa-3x close-icon"></i>
