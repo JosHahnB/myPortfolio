@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello!",
-      "description": "My name is Josh. I’m a full stack software engineer specializing in Javascript. I am a military veteran  with a decade of experience in aerospace, and currently work in administration management. I decided to make a change to get into software due to the lifestyle flexibility, unlimited creative potential and having a satisfying career that is challenging and rewarding. Software is an exciting industry to me because of the powerful impact it has on everyday life in every corner of the world. I thrive in an environment where personal and professional growth is mandatory and exceptional teamwork is a must. I believe that my experience as a mechanic could benefit me with troubleshooting and diagnosing software issues as well as not being too flustered if something is not working in a timely manner.  I feel a deep satisfaction when I fix something and will to bring that passion and drive to the workplace.",
+      "description": "Hi, I'm Josh — a front-end developer with full-stack experience, specializing in JavaScript, React, and modern web technologies. I'm currently pursuing my bachelor's degree while working full-time and managing a few freelance clients, where I've built and maintained custom websites from the ground up.\n\nBefore moving into tech, I spent nearly a decade in the Air Force working in aerospace maintenance. That background gave me a strong foundation in problem-solving, attention to detail, and teamwork — qualities that translate directly into how I approach software development.\n\nI'm passionate about creating intuitive, accessible, and visually engaging user experiences while also understanding how the back end supports seamless functionality. I thrive on continuous learning and take pride in turning complex problems into clean, efficient solutions.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,41 +42,17 @@
         ]
       },
       {
-        "title": "Travellers Quill",
+        "title": "Bataille Jiu Jitsu",
         "startDate": "September 2023",
-        "description": "A backend blog platform using Express that implements Inquirer library for NodeJS wherein blog posts will be created using full CRUD functionality and is stored in MongoDB. Users may search by author or title and like/comment on blogs.",
+        "description": "A modern, professional website for Bataille Jiu Jitsu academy, designed to showcase their Brazilian Jiu Jitsu programs, training philosophy, and academy culture. Built with Astro and Tailwind CSS to deliver fast loading times and optimal SEO performance. The site features intuitive navigation, responsive design, and engaging content that helps prospective students learn about class offerings, schedules, instructors, and the academy's approach to Jiu Jitsu training. Implemented with a focus on user experience and accessibility to ensure visitors can easily find the information they need.",
         "images": [
-          "images/portfolio/travelersQuill/tq1.png",
-          "images/portfolio/travelersQuill/tq2.png",
-          "images/portfolio/travelersQuill/tq3.png",
-          "images/portfolio/travelersQuill/tq4.png",
-          "images/portfolio/travelersQuill/tq5.png"
+          "images/portfolio/bataille/headerbataille.png",
+          "images/portfolio/bataille/bcontent1.png",
+          "images/portfolio/bataille/bcontent2.png",
+          "images/portfolio/bataille/bcontent3.png",
+          "images/portfolio/bataille/bcontent4.png"
         ],
-        "url": "https://github.com/tech-enigmas/travelers-quill",
-        "technologies": [
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          }
-        ]
-      },
-      {
-        "title": "Calendar App",
-        "startDate": "March 2023",
-        "description": "Collaborating with fantastic classmates, we embarked on our inaugural group project—an innovative calendar app designed to streamline daily life planning. Packed with versatile organizational features, our calendar ensures functionality and interactivity. Seamlessly input appointments or events, utilize the integrated to-do list, and effortlessly keep track of tasks for an enhanced and practical scheduling experience.",
-        "images": [
-          "images/portfolio/calendar/p1.jpg"
-         
-        ],
-        "url": "https://github.com",
+        "url": "https://www.bataillejj.com",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -84,44 +60,69 @@
           },
           {
             "class": "devicon-html5-plain",
-            "name": "HTML"
+            "name": "HTML5"
           },
           {
             "class": "devicon-css3-plain",
-            "name": "CSS"
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Tailwind CSS"
           }
-         
+        ]
+      },
+      {
+        "title": "Dancovell Jiu Jitsu",
+        "startDate": "October 2025",
+        "description": "A modern, responsive website for Dancovell Jiu Jitsu, showcasing the academy's training programs, class schedules, and instructor profiles. Built with Astro and Tailwind CSS for optimal performance and SEO. The site features a clean, intuitive design that effectively communicates the academy's mission and helps potential students easily find information about classes, pricing, and location. Implemented responsive design principles to ensure an excellent user experience across all devices.",
+        "images": [
+          "images/portfolio/dancovell/main.png",
+          "images/portfolio/dancovell/content1.png",
+          "images/portfolio/dancovell/content2.png",
+          "images/portfolio/dancovell/content3.png",
+          "images/portfolio/dancovell/footer.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Tailwind CSS"
+          }
         ]
       }
     ],
     "experience": [
       {
-        "company": "Wrestling IQ - https://www.wrestlingiq.com/",
-        "title": "Front End Developer",
-        "years": "2.2024 - current",
-        "mainTech": [
-          "JavaScript", "Astro"
-        ],
-        "technologies": [
-          "Vue",
-          "Tailwind CSS", 
-          "Turborepo",
-          "GitHub",
-          "Netlify"
-        ]
-      },
-      {
-        "company": "Jiu Jitsu Website - https://www.bataillejj.com/",
-        "title": "Website Updates",
+        "company": "Self-Employed | Remote",
+        "title": "Front-End Developer",
         "years": "9.2023 - current",
         "mainTech": [
-          "Javascript", "Astro"
+          "JavaScript",
+          "Astro",
+          "Vue"
         ],
         "technologies": [
           "Tailwind CSS",
-           "GitHub",
-          "Netlify"
-        ]
+          "Turborepo",
+          "GitHub",
+          "Netlify",
+          "Responsive Design",
+          "UI/UX Optimization"
+        ],
+        "description": "Manage and maintain websites for two ongoing clients, ensuring performance, accessibility, and content updates.\n\nProvide front-end development services for a third client, implementing responsive UI designs and optimizing user experience.\n\nBuild and deploy custom websites tailored to client branding and functionality needs."
       },
       {
         "company": "CodeFellows Student",
@@ -176,3 +177,4 @@
       }
     ]
   }
+
